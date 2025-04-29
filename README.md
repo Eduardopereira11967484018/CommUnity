@@ -1,4 +1,4 @@
- 🚀 Community Project
+ 🚀 CommUnity 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/community-project)
 ![GitHub license](https://img.shields.io/github/license/your-username/community-project)
